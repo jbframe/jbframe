@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 
 I'm a product focused full stack engineer with experience both developing and managing software products trusted by millions of people across the world. I'm obsessed with creating robust software that solves real human problems.
 
-🔭 I'm currently working with 🔭
--JavaScript | TypeScript | Python | Java | TensorFlow | React | NextJS | Redux | Tailwind CSS | Node.js | Express | PostgreSQL | MySQL | MongoDB | Neo4j | Jest | CircleCI | Docker | AWS | NGINX | Raspberry Pi.
+🔭 I'm currently working with 🔭. 
+JavaScript | TypeScript | Python | Java | TensorFlow | React | NextJS | Redux | Tailwind CSS | Node.js | Express | PostgreSQL | MySQL | MongoDB | Neo4j | Jest | CircleCI | Docker | AWS | NGINX | Raspberry Pi.
 
 🌱 What I advocate 🌱
 - Regularly stepping back from feature driven mindset and taking time to understand the problem space.
@@ -31,8 +31,8 @@ I'm a product focused full stack engineer with experience both developing and ma
 - Jumping into technology choices without evaluating tradeoffs.
 - Passing off security implications to 'somebody else'.
 
-🎉 Fun Facts 🎉 
-- Improv Theater Performance & Production | Quadcopters | IoT | Cycling | Skiing | Backpacking
+🎉 Fun Facts 🎉.  
+Improv Theater Performance & Production | Quadcopters | IoT | Cycling | Skiing | Backpacking
 
 
 ### Stats 📊
