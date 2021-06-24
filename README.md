@@ -33,7 +33,7 @@ JavaScript | TypeScript | Python | Java | TensorFlow | React | NextJS | Redux | 
 - Passing off security implications to 'somebody else'.
 
 🎉  Fun Facts  🎉
-- Improv Theater Performance & Production | Quadcopters | IoT | Cycling | Skiing | Backpacking
+- Improv Theater Performer and Producer | Quadcopters | IoT | Cycling | Skiing | Backpacking
 
 
 ### 📊  Stats  📊
