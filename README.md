@@ -12,31 +12,31 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi 👨‍💻 !
+### Hi  👨‍💻 !
 
 I'm a product focused full stack engineer with experience developing and managing software products trusted by millions of people across the world. I'm obsessed with creating robust software that solves real human problems.
 
-🔭 I'm currently working with 🔭.
+🔭  I'm currently working with. 🔭.
   
 JavaScript | TypeScript | Python | Java | TensorFlow | React | NextJS | Redux | Tailwind CSS | Node.js | Express | PostgreSQL | MySQL | MongoDB | Neo4j | Jest | CircleCI | Docker | AWS | NGINX | Raspberry Pi.
 
-🌱 What I advocate 🌱
+🌱  What I advocate  🌱
 - Regularly stepping back from feature driven mindset and taking time to understand the problem space.
 - Beautiful design and user experience.
 - Strong pertinent test suites.
 - Being part of a team that values curiosity, continuous improvement and a growth mindset.
 - Close collaboration between stakeholders; users, product managers and the entire organization.
 
-🤔 What I discourage 🤔
+🤔  What I discourage  🤔
 - Hiding behind process to avoid accountability.
 - Jumping into technology choices without evaluating tradeoffs.
 - Passing off security implications to 'somebody else'.
 
-🎉 Fun Facts 🎉.  
+🎉  Fun Facts  🎉.  
 Improv Theater Performance & Production | Quadcopters | IoT | Cycling | Skiing | Backpacking
 
 
-### Stats 📊
+### Stats  📊
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=jbframe&layout=compact&theme=react&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
