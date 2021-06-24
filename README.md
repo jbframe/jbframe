@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ### Hi 👨‍💻 !
 
-I'm a product focused full stack engineer with experience both developing and managing software products trusted by millions of people across the world. I'm obsessed with creating robust software that solves real human problems.
+I'm a product focused full stack engineer with experience developing and managing software products trusted by millions of people across the world. I'm obsessed with creating robust software that solves real human problems.
 
 🔭 I'm currently working with 🔭.
   
