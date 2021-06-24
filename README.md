@@ -37,5 +37,5 @@ JavaScript | TypeScript | Python | Java | TensorFlow | React | NextJS | Redux | 
 
 
 ### 📊  Stats  📊
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=jbframe&layout=compact&theme=react&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jbframe&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=jbframe&layout=compact&theme=cobalt&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jbframe&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
