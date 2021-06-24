@@ -32,11 +32,11 @@ JavaScript | TypeScript | Python | Java | TensorFlow | React | NextJS | Redux | 
 - Jumping into technology choices without evaluating tradeoffs.
 - Passing off security implications to 'somebody else'.
 
-🎉  Fun Facts  🎉.  
-Improv Theater Performance & Production | Quadcopters | IoT | Cycling | Skiing | Backpacking
+🎉  Fun Facts  🎉
+- Improv Theater Performance & Production | Quadcopters | IoT | Cycling | Skiing | Backpacking
 
 
-### Stats  📊
+###📊 Stats  
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=jbframe&layout=compact&theme=react&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
