@@ -32,7 +32,7 @@ JavaScript | TypeScript | Python | Java | TensorFlow | React | NextJS | Redux | 
 - Jumping into technology choices without evaluating tradeoffs.
 - Passing off security implications to 'somebody else'.
 
-🎉  Fun Facts  🎉
+🎉  Interests  🎉
 - Improv Theater Performer and Producer | Quadcopters | IoT | Cycling | Skiing | Backpacking
 
 
