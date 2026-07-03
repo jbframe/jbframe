@@ -14,26 +14,21 @@ Here are some ideas to get you started:
 -->
 ### Hi  👨‍💻 !
 
-I'm a product focused full stack engineer with experience developing and managing software products trusted by millions of people across the world. I'm obsessed with creating robust software that solves real human problems.
+I'm a backend/platform engineer and tech lead specializing in identity, security, and applied AI. For the past several years I have led engineering for large scale authentication systems used by tens of millions of people, and I am pursuing a Master of Computer Science at Georgia Tech with a machine learning specialization.
 
-🔭  I'm currently working with  🔭.
-  
-JavaScript | TypeScript | Python | Java | TensorFlow | React | NextJS | Redux | Tailwind CSS | Node.js | Express | PostgreSQL | MySQL | MongoDB | Neo4j | Jest | CircleCI | Docker | AWS | NGINX | Raspberry Pi.
+🔭  At **Charter Communications** I lead engineering across Spectrum's centralized OAuth2/OIDC and SAML identity platform, serving 31M+ customers and more than 1M authentication requests per day, as well as Spectrum's public WiFi authentication. My work spans end to end identity flows, front end and backend architecture, infrastructure consolidation, and database and cluster migrations that have saved over $100k per year.
 
-🌱  What I advocate  🌱
-- Regularly stepping back from feature driven mindset and taking time to understand the problem space.
-- Beautiful design and user experience.
-- Strong pertinent test suites.
-- Being part of a team that values curiosity, continuous improvement and a growth mindset.
-- Close collaboration between stakeholders; users, product managers and the entire organization.
+🤖  I also drive spec-driven development with agentic coding tools such as AWS Kiro, Claude Code, and OpenAI Codex, using them to turn complex requirements into structured designs and faster delivery.
 
-🤔  What I discourage  🤔
-- Hiding behind process to avoid accountability.
-- Jumping into technology choices without evaluating tradeoffs.
-- Passing off security implications to 'somebody else'.
+📦  Between engineering periods, I spent 5 years in software product management at **HID Global**, where I set strategy for a Software and RFID product line that grew revenue by more than $10M per year and earned a US patent.
 
-🎉  Interests  🎉
-- Improv Theater Performer and Producer | Quadcopters | IoT | Cycling | Skiing | Backpacking
+🛠️  **Core skills**
+
+TypeScript | Python | Java | Kotlin | React | Angular | Next.js | Redux | Node.js | Express | PostgreSQL | MySQL | MongoDB | Neo4j | Kafka | Spark | AWS | Kubernetes | Docker | GitLab CI/CD | Jest | Cypress | WebDriverIO | Machine Learning
+
+🎉  Outside of work
+
+Improv Theater Performer and Producer | Competitive Quadcopter Racing Pilot (ranked 51 in the world in 2020) | Cyclist | Guitarist | Outdoors Enthusiast
 
 
 ### 📊  Stats  📊
