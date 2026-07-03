@@ -30,6 +30,3 @@ TypeScript | Python | Java | Kotlin | React | Angular | Next.js | Redux | Node.j
 
 Improv Theater Performer and Producer | Competitive Quadcopter Racing Pilot (ranked 51 in the world in 2020) | Cyclist | Guitarist | Outdoors Enthusiast
 
-
-### 📊  Stats  📊
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jbframe&layout=compact&theme=cobalt&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
